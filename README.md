@@ -12,7 +12,6 @@ Email: tornikenikabadze@gmail.com
    <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="35px"/>
 </a>
 <br>
----
 
 ## Stats
 
