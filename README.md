@@ -6,6 +6,7 @@ I Describe myself as a passionate developer who wants to show his skills and gai
 
 ### Contact
 Mobile: +995 598 95 72 28
+<br>
 Email: tornikenikabadze@gmail.com
 
 <a href="https://www.linkedin.com/in/tornike-nikabadze-1b080823b/">
